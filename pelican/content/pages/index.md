@@ -1,1 +1,0 @@
-Title: Nuit Debout Lyon
