@@ -11,6 +11,7 @@ PATH = 'content'
 TIMEZONE = 'Europe/Paris'
 
 DEFAULT_LANG = 'fr-FR'
+LOCALE = 'fr-FR'
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
@@ -20,14 +21,18 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('Pelican', 'http://getpelican.com/'),
-         ('Python.org', 'http://python.org/'),
-         ('Jinja2', 'http://jinja.pocoo.org/'),
-         ('You can modify those links in your config file', '#'),)
+LINKS = [('Forum', 'https://forum.nuitdeboutlyon.fr/'),
+         ('Facebook', 'https://www.facebook.com/NuitDeboutLyon'),
+         ('Twitter', 'https://twitter.com/NuitDeboutLyon'),
+         ('Instagram', 'https://www.instagram.com/nuitdeboutlyon/')]
 
 # Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
+# TODO: le thème ne supporte pas ça
+SOCIAL = (('Facebook', 'https://www.facebook.com/NuitDeboutLyon'),
+          ('Twitter', 'https://twitter.com/NuitDeboutLyon'),
+          ('Instagram', 'https://www.instagram.com/nuitdeboutlyon/'))
+
+GITHUB_URL = 'https://github.com/Lapin0t/nuitdeboutlyon.fr'
 
 DEFAULT_PAGINATION = 10
 
@@ -35,6 +40,9 @@ DEFAULT_PAGINATION = 10
 #RELATIVE_URLS = True
 
 THEME = 'theme-medius'
+
+MD_EXTENTIONS = ['extra', 'smarty', 'sane_lists', 'headerid']
+TYPOGRIFY = True
 
 PLUGIN_PATHS = ['plugins']
 PLUGINS = ['events']
