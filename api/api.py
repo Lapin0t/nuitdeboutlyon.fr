@@ -61,11 +61,9 @@ def webhook():
 def handle_news(data, raw):
     meta = get_common_meta(data)
 
-
-    event_spec, *raw_ = raw.split('\n\n')
-    raw = '\n\n'.join(raw_)
+    i = raw.index('---')
+    event_spec, raw = raw[:i], raw[i+3:]
     meta.update(yaml.load(event_spec))
-
 
     with open(path.join(config.repo_path, 'news', get_filename(meta))):
         for k, v in meta.items():
