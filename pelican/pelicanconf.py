@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = 'Nuit Debout Lyon'
 SITENAME = 'Nuit Debout Lyon'
-SITEURL = ''
+SITEURL = 'https://nuitdeboutlyon.fr'
 
 PATH = 'content'
 STATIC_PATHS = ['uploads']

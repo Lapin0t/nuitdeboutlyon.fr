@@ -1,7 +1,7 @@
 Title: Synthèse de mars à août
 Date: 2016-12-10
 Category: Comptes-Rendus
-Cover: http://localhost:5000/uploads/synthese_cover.png
+Cover: https://nuitdeboutlyon.fr/uploads/synthese_cover.png
 
 Une synthèse *partielle et subjective* mais assez dense des actions qui se sont
 passées depuis le début jusqu'à août a été rédigée par des membres de nuit
