@@ -126,3 +126,5 @@ plus ouverts possible pour partager et s'informer sur le web :
 > Dans un contexte où la classe politique ne nous représente plus, c'est à nous
 > d'agir tous ensemble pour créer l'avenir, notre avenir Venez discuter,
 > réfléchir, agir, proposer, rêver et vous approprier l'espace public
+
+![Manifeste de Nuit Debout](https://forum.nuitdeboutlyon.fr/uploads/default/optimized/1X/235a1bffe91c40ff19a59b2906c7ddbc00483a2d_1_689x486.jpg)
