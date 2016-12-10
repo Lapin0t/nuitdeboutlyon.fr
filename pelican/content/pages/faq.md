@@ -1,6 +1,12 @@
 Title: FAQ
 Date: 2016-12-08
 
+> Dans un contexte où la classe politique ne nous représente plus, c'est à nous
+> d'agir tous ensemble pour créer l'avenir, notre avenir. Venez discuter,
+> réfléchir, agir, proposer, rêver et vous approprier l'espace public
+
+![Manifeste de Nuit Debout](https://forum.nuitdeboutlyon.fr/uploads/default/optimized/1X/235a1bffe91c40ff19a59b2906c7ddbc00483a2d_1_689x486.jpg)
+
 Qui sommes nous ?
 -----------------
 
@@ -120,11 +126,3 @@ plus ouverts possible pour partager et s'informer sur le web :
 * [Le compte twitter](http://twitter.com/nuitdeboutlyon), pour connaître les
   informations les plus importantes et/ou suivre ce qu'il se passe en direct
   lors d'évènements...
-
----
-
-> Dans un contexte où la classe politique ne nous représente plus, c'est à nous
-> d'agir tous ensemble pour créer l'avenir, notre avenir Venez discuter,
-> réfléchir, agir, proposer, rêver et vous approprier l'espace public
-
-![Manifeste de Nuit Debout](https://forum.nuitdeboutlyon.fr/uploads/default/optimized/1X/235a1bffe91c40ff19a59b2906c7ddbc00483a2d_1_689x486.jpg)
