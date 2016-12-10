@@ -13,7 +13,7 @@ STATIC_PATHS = ['uploads']
 TIMEZONE = 'Europe/Paris'
 
 DEFAULT_LANG = 'fr-FR'
-LOCALE = 'fr-FR'
+LOCALE = 'fr_FR.UTF-8'
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
