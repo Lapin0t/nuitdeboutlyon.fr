@@ -7,6 +7,8 @@ SITENAME = 'Nuit Debout Lyon'
 SITEURL = ''
 
 PATH = 'content'
+STATIC_PATHS = ['uploads']
+
 
 TIMEZONE = 'Europe/Paris'
 
